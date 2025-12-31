@@ -1,6 +1,6 @@
 /*
 *Name:Zalik Barasa Juma
-*Reg No: J77-10594-2024m
+*Reg No: J77-10594-2024
 *Description: Program for 3D -Array for shop store sales 
 */
 public class ShopSales {
@@ -61,4 +61,5 @@ public class ShopSales {
         
         System.out.println("Total sales for Branch 1: " + totalBranch1);
     }
+
 }
